@@ -1,0 +1,7 @@
+name: SimpleNPCS
+version: '${project.version}'
+main: net.zffu.simplenpcs.SimpleNPCSPlugin
+api-version: 1.20
+prefix: SimpleNPCS
+authors: [ Zffu ]
+description: A Simple way to add npcs into Spigot Plugins and Minecraft!
